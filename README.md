@@ -1,6 +1,6 @@
 # Hostel Reservation 
 
-A nice project with a nice description
+A Node.js REST API backed by a Postgres DB that allows for managing the rooms and bookings in a hostel.
 
 ---
 ## Requirements
